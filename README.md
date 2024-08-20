@@ -1,6 +1,6 @@
 # clied (commandline interface editors)
 
-A short tutorial introducing CLI-editors.
+A short tutorial introducing CLI-editors titled "How do I edit a file in a Terminal? 🤷" at the NCML lab meeting (MPIEA, Frankfurt am Main) on 21 August 2024 by Seung-Goo Kim.
 
 ## directories
 
