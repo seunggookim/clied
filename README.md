@@ -1,15 +1,11 @@
-# clied
+# clied (commandline interface editors)
 
-## directory structure
+A short tutorial introducing CLI-editors.
 
-### Synchronized
-`./code/`  for functions, scripts, small (<50 MB) packages for each language
+## directories
 
-`./docs/`  for documents (notes, presentation slides, manuscripts, other human-readable files)
+`/demo/` Demofiles for `bash`, `emacs`, `vim`, and `nano`
+`/docs/` The presentation PDF file (v2024-08-20)
 
-`./figs/`  to dump figure files in
+(CC) 2024-08-20 [seung-goo.kim@ae.mpg.de](mailto:seung-goo.kim@ae.mpg.de)
 
-`./meta/`  for small (<50 MB) meta-data files
-
-### Not synchronized
-`./data/`  for large (>50 MB) files. The folder name "data" is set NOT TO SYNCHRONIZED (see `.gitignore`)
