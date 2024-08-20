@@ -1,0 +1,8 @@
+< "Generate a good example text for SED demonstration""
+> ChatGPT3.5:
+Hello World! This is a simple text file.
+The purpose of this file is to demonstrate the use of SED.
+SED is a powerful tool for editing streams of text.
+Let's replace some words and lines using SED.
+Thank you for reading this example.
+
